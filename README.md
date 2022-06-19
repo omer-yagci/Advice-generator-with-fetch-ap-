@@ -2,6 +2,9 @@
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
+https://omer-yagci.github.io/Advice-generator-with-fetch-ap-/
+
+
 ## The challenge
 
 Your users should be able to:
